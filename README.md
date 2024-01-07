@@ -1,6 +1,5 @@
 # PDKs-Lethally-Company
-yellow
-Disclaimer:**
+**Disclaimer:**
 
 This GitHub repository provides mods for Lethal Company purely for informational and educational purposes. The use of these mods is entirely at the discretion and responsibility of the end-user.
 
