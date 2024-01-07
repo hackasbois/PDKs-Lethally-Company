@@ -1,0 +1,36 @@
+**Warning:**
+
+The cheat menu provided in this repository for Lethal Company is intended for educational and testing purposes only. Any misuse or unauthorized use of the cheat menu is strictly prohibited.
+
+Users are hereby cautioned that utilizing the cheat menu in any manner inconsistent with the intended purpose by Lethal Company may result in adverse consequences, including but not limited to:
+
+Suspension or termination of user accounts by Lethal Company.
+Damage to in-game progress, experience, or overall gaming satisfaction.
+Violation of terms of service or user agreements with Lethal Company.
+The maintainers and contributors of this repository explicitly disclaim any responsibility or liability for the misuse of the cheat menu, including any repercussions, penalties, or actions taken by Lethal Company as a result of such misuse.
+
+Using the cheat menu responsibly and within the bounds established by Lethal Company's terms of service and game policies is crucial. Users engaging with the cheat menu do so at their own risk, assuming full responsibility for any consequences resulting from its use.
+
+
+Cheat Menu: https://github.com/hackasbois/PDKs-Lethally-Company/blob/main/Menu%201.zip
+
+
+
+
+
+# REQUIREMENTS :
+1. https://github.com/hackasbois/PDKs-Lethally-Company/raw/main/BEPINEX.zip
+
+
+How to install BEPINEX
+1. Go to your game files (via Steam).
+2. Get your **UNZIPPED** BepInEX files and drop them into the Main page of the Lethal Company files.
+3. Launch the game, if the console pops up, you did it!
+
+How to install the cheat menu AFTER downloading BepInEx : 
+1. Go to Lethal Company files, go to BepInEx, go to Plugins, and drop the same menu files (LethalCompanyModMenu.dll) into the Plugins folder.
+2. Next, go to the Config section of the Menu 1 files, and get the 2 configs (BOTH!) selected and copy them.
+3. Now, go to your BepInEx files again in your LC files, and drop them in the config folder, PRESS THE REPLACE BUTTON, and your done! 
+4. Play wisely!
+
+
